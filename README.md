@@ -1,0 +1,2 @@
+# Saminw
+first git project
